@@ -1,5 +1,7 @@
 # Restaurant Recommendation
 
+Kaggle competition link: https://www.kaggle.com/mrmorj/restaurant-recommendation-challenge
+
 This project is made by Google Colab, therefore.
 
 If you want to be able to run this project, you should follow these steps first:
